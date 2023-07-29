@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Landing Page</title>
+</head>
+<body>
+    <h1>Bem-vindo à nossa Landing Page!</h1>
+    <p>Clique no botão abaixo para acessar a CNDT da Receita Federal:</p>
+    <a href="https://solucoes.receita.fazenda.gov.br/servicos/certidaointernet/pj/emitir">
+        <button>Acessar CNDT</button>
+    </a>
+</body>
+</html>
